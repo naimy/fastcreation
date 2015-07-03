@@ -1,0 +1,6 @@
+body{padding:5px;background-color:#eee;color:#000}
+
+/******* MENU *******/
+#mainMenu{width:100%;padding:0;margin:0;}
+#mainMenu ul {padding:0;margin:0;}
+#mainMenu ul li{float:left;list-style-type:none;padding-right:10px;}
